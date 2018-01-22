@@ -1,0 +1,10 @@
+dependency:
+  python3	
+  jupiter
+  cv2
+  pickle
+  numpy
+  matplotlib
+  sklearn
+  tensorflow
+  keras
